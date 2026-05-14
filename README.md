@@ -13,7 +13,7 @@ I love transforming ideas into intelligent and practical solutions through code.
 My interests span across AI, deep learning, backend development, and data-driven applications.
 
 - 🔭 Currently working on AI, OCR, NLP, and Intelligent Document Processing projects
-- 🌱 Continuously learning Machine Learning, Deep Learning, and Data Engineering
+- 🌱 Continuously learning Machine Learning, Deep Learning, and Data Engineering ,Data analytics
 - 💡 Passionate about innovation, research, and scalable systems
 - 🎯 Focused on building intelligent and real-world applications
 
@@ -119,9 +119,6 @@ Building engaging and intelligent applications for learning and problem-solving.
 
 ---
 
-# 📝 Quote
-
-> "The best way to predict the future is to create it."
 
 ---
 
