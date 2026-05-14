@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rania
 
-### AI & Software Engineering Student | Machine Learning & Computer Vision Enthusiast
+### AI & Software Engineering Student | Machine Learning & data Enthusiast
 
 Welcome to my GitHub profile!  
 I'm passionate about Artificial Intelligence, intelligent systems, and software development. I enjoy building impactful projects combining AI, NLP, Computer Vision, OCR, data engineering, and modern web technologies.
